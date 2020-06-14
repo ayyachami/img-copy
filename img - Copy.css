@@ -1,0 +1,296 @@
+<html>
+<head>
+
+<title>Image Gallery</title>
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+
+<style type="text/css">
+
+
+
+h1{
+ color: white;
+ font-size: 5em;
+}
+
+#content{
+ text-align: center;
+ padding-bottom: 80%;
+ font-size: 5em;
+}
+
+
+body{
+ background: url(https://images.unsplash.com/photo-1536502829567-baf877a670b5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80);
+ background-size: cover;
+ background-position: center;
+ padding-top: 50px;
+}
+
+.jumbotron{
+ color: #2c3e50;
+}
+.navbar-inverse{
+ background: #2c3e50;
+}
+
+
+h3{
+color: black;
+}
+
+
+</style>
+<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+
+
+
+
+
+
+
+<div class="jumbotron">
+  <h1><strong>TogetherForever</strong></h1>
+  <p>Hello there! Would you like to make your near and dear ones special? Then you are on the right page! 
+We sell good branded jewellery for both men and women. We assure you that we sell good branded ones with exchanging offers! What else more?  Come Lets shop #TogetherForever.
+Don't have an account? Sign up soon! </p>
+  <p> Click here to know more about us:) <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+</div>
+
+
+
+
+
+</head>
+<body>
+
+
+
+<ol class="breadcrumb">
+
+  <li><a href="#"><span class="glyphicon glyphicon-cog" aria-hidden="true"> </span> Services</a></li>
+  <li><a href="#"><span class="glyphicon glyphicon-th" aria-hidden="true"> </span> Collection</a></li>
+  <li><a href="#"><span class="glyphicon glyphicon-list-alt" aria-hidden="true"> </span> Reviews </a></li>
+  <li><a href="#"><span class="glyphicon glyphicon-adjust" aria-hidden="true"></span> About</a></li>
+  <li><a href="#"><span class="glyphicon glyphicon-earphone" aria-hidden="true"> </span> contact</a></li>
+  <li><a href="#"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"> </span> Help</a></li>
+</ol>
+
+<nav class="navbar navbar-default">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-nav-demo" aria-expanded="false">
+<span class="sr-only">Toogle navigation</span>
+<span class="icon-bar"</span>
+<span class="icon-bar</span>
+<span class="icon-bar</span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="bs-nav-demo">
+
+<div class="row">
+<div class="col-lg-4 col-sm-6">
+<ol class="nav navbar-nav">
+
+
+
+<ol class="nav navbar-nav navbar-bottom">
+<li><a href="#"> <span class="glyphicon glyphicon-user" aria-hidden="true"></span> Sign up </a></li>
+<li><a href="#"> <span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> log in</a></li>
+
+</div>
+</div>
+</div>
+</nav>
+
+<form class="navbar-form navbar-left" role="search">
+  <div class="form-group">
+    <input type="text" class="form-control" placeholder="Looking for new brands?">
+  </div>
+   <button type="button" class="btn btn-success"><span class="glyphicon glyphicon-info-send" aria-hidden="true"> </span>Lets go!</button>
+</form>
+
+
+
+
+
+
+
+
+
+<div class="page-header">
+  <h1><strong>  Have a look at these new products. LOG IN  to see more new varieties.</strong> <small>Wear it with pride!</small></h1>
+</div>
+
+
+
+
+<div class="container">
+<div class="jumbotron">
+<h1>New Offers! <strong>Exclusively...</strong></h1>
+<p>Check out these new products and <strong>buy now!</srong></p>
+</div>
+
+
+<div class="row">
+  <div class="col-lg-12 col-md-12">
+    <div class="thumbnail">
+      <img src="https://images.unsplash.com/photo-1586878340946-f81bfad535f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80" alt="fatf">
+    
+      <div class="NEW OFFER!">
+       <h2>YOUTH WEAR</h2>
+        <p><h3> Model No.37FGT00, youth wearing <strong>gold slim chain, gold bracelet and gold ring.</strong> only for <strong>Rs.8000/-</strong> Be the lucky top 50 and get <strong>18%</strong> offer! Only <strong>300pieces</strong> available.Free home delivery with exchanging offers and with free
+gifts. Hurry up!
+<strong>#TogetherForever</strong></h3></p>
+        <p><a href="#" class="btn btn-primary" role="button">BUY NOW</a> <a href="#" class="btn btn-default" role="button">See review</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+<div class="jumbotron">
+<h1>New <strong>COLLECTIONS</strong> are coming! </h1>
+<p>Check for these new collections which are going to be launched next week.Dont miss out! Buy for more than Rs.10,000/- and get a ticket to explore around <strong>Singapore</strong> and grab amazing gifts!
+</p>
+</div>
+
+
+
+<div class="row">
+<div class="col-lg-4 col-sm-6">
+<div class="thumbnail">
+<img src="https://images.unsplash.com/photo-1551443083-96ad4897c329?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80">
+</div>
+</div>
+
+
+<div class="col-lg-4 col-sm-6">
+<div class="thumbnail">
+<img src="https://images.unsplash.com/photo-1547738238-5ddb16bef15f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">
+</div>
+</div>
+
+<div class="col-lg-4 col-sm-6">
+<div class="thumbnail">
+<img src="https://images.unsplash.com/photo-1566325645218-73b67fd824a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60">
+</div>
+</div>
+
+<div class="col-lg-4 col-sm-6">
+<div class="thumbnail">
+<img src="https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60">
+</div>
+</div>
+
+
+<div class="col-lg-4 col-sm-6">
+<div class="thumbnail">
+<img src="https://images.unsplash.com/photo-1586878341340-1971696a9b71?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60">
+</div>
+</div>
+
+<div class="col-lg-4 col-sm-6">
+<div class="thumbnail">
+<img src="https://images.unsplash.com/photo-1561995975-a23cdb019dce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60">
+</div>
+</div>
+
+<div class="col-lg-4 col-sm-6">
+<div class="thumbnail">
+<img src="https://images.unsplash.com/photo-1539160371005-e6cbdf4a6c9e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60">
+</div>
+</div>
+
+
+<div class="col-lg-4 col-sm-6">
+<div class="thumbnail">
+<img src="https://images.unsplash.com/photo-1522389903690-657f5318cf1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60">
+</div>
+</div>
+
+<div class="col-lg-4 col-sm-6">
+<div class="thumbnail">
+<img src="https://images.unsplash.com/photo-1583878543723-dcd6ad8bcb3f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60">
+</div>
+</div>
+
+<div class="col-lg-4 col-sm-6">
+<div class="thumbnail">
+<img src="https://images.unsplash.com/photo-1587271511223-18b7ef9a327a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">
+</div>
+</div>
+
+
+<div class="col-lg-4 col-sm-6">
+<div class="thumbnail">
+<img src="https://images.unsplash.com/photo-1514927465065-bbdc86c7a76c?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">
+</div>
+</div>
+
+
+<div class="col-lg-4 col-sm-6">
+<div class="thumbnail">
+<img src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60">
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="alert alert-success" role="alert"><h3><strong>Thank you</strong> for visiting our page:) <strong>LOG IN</strong> or <strong>SIGN UP</strong> 
+to be a part of <strong>TogetherForever.</strong> Click below to share your experience with us by giving your valuable feedback.</h3> </a></div>
+ <button type="button" class="btn btn-success">Feedback</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</body>
+</html>
